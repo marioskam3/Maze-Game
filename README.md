@@ -53,11 +53,13 @@ Here are some screenshots of the game in action:
 ## How to Install
 
 1. **Clone the repository to your local machine:**
+
     ```bash
         git clone https://github.com/marioskam3/Maze-Game
     ```
 
 2. **Navigate to the project directory:**
+
     ```bash
         cd Maze-Game/Game-Code
     ```
@@ -65,6 +67,7 @@ Here are some screenshots of the game in action:
 ## How to compile and run
 
 1. **You will need a c++ compiler:**
+
     ```bash
         sudo apt update && sudo apt upgrade
     ```
