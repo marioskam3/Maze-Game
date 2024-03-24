@@ -65,26 +65,22 @@ Here are some screenshots of the game in action:
 ## How to compile and run
 
 1. **You will need a c++ compiler:**
-
     ```bash
         sudo apt update && sudo apt upgrade
     ```
 
 I am using g++.\
-Download g++ with:\
-
+Download g++ with:
     ```bash
         sudo apt install g++
     ```
 
 2. **Install the ncurses library:**
-
   ```bash
     sudo apt-get install libncurses5-dev libncursesw5-dev
   ```
 
   Confirm the Installation:
-
   ```bash
     dpkg -L libncurses-dev libncurses5-dev libncursesw5-dev
   ```
