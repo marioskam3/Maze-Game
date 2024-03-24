@@ -1,4 +1,4 @@
-![ProjectLogo](/Logo-&-Screenshots/Maze-Game.png)
+![ProjectLogo](/Logo-&-Screenshots/Maze_Game.png)
 
 ## Overview
 
@@ -18,7 +18,7 @@ This is a terminal maze game developed in c++
 ## Origin
 
 You are Lucas (L) and you have to explore the maze and find the magic stone before Mpampis (M) does.\
-Be careful, the magic stone will randomly disappear and reappear in different places./
+Be careful, the magic stone will randomly disappear and reappear in different places.\
 FAST! Mpampis is already in the maze...
 
 ## How to Play
@@ -29,8 +29,8 @@ The goal of the game is to find the magic stone before Mpampis does.
 
 ### Controls
 
-You can move Lucas with W-A-S-D keys./
-You can skip your turn with the spacebar./
+You can move Lucas with W-A-S-D keys.\
+You can skip your turn with the spacebar.\
 Exit the game with the ESC key.
 
 
@@ -53,34 +53,38 @@ Here are some screenshots of the game in action:
 ## How to Install
 
 1. **Clone the repository to your local machine:**
-  ```bash
-    git clone https://github.com/marioskam3/Maze-Game
-  ```
+    ```bash
+        git clone https://github.com/marioskam3/Maze-Game
+    ```
 
 2. **Navigate to the project directory:**
-  ```bash
-    cd Maze-Game/Game-Code
-  ```
+    ```bash
+        cd Maze-Game/Game-Code
+    ```
 
 ## How to compile and run
 
 1. **You will need a c++ compiler:**
 
-  ```bash
-    sudo apt update && sudo apt upgrade
-  ```
-    -I am using g++./
-    -Download g++ with:/
-  ```bash
-    sudo apt install g++
-  ```
+    ```bash
+        sudo apt update && sudo apt upgrade
+    ```
+
+I am using g++.\
+Download g++ with:\
+
+    ```bash
+        sudo apt install g++
+    ```
 
 2. **Install the ncurses library:**
 
   ```bash
     sudo apt-get install libncurses5-dev libncursesw5-dev
   ```
-  Confirm the Installation:/
+
+  Confirm the Installation:
+
   ```bash
     dpkg -L libncurses-dev libncurses5-dev libncursesw5-dev
   ```
@@ -101,7 +105,7 @@ Here are some screenshots of the game in action:
 
 ## Future Plans
 
-    * A more efficient and clever algorithm for Mpampis movement (feel free to suggest your ideas!)
+- **A more efficient and clever algorithm for Mpampis movement (feel free to suggest your ideas!)**
 
 ## License
 
