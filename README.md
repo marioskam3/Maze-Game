@@ -69,8 +69,9 @@ Here are some screenshots of the game in action:
         sudo apt update && sudo apt upgrade
     ```
 
-I am using g++.\
-Download g++ with:
+    - I am using g++.\
+    - Download g++ with:
+    
     ```bash
         sudo apt install g++
     ```
